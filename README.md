@@ -8,7 +8,6 @@
 <body>
   <header>
     <h1>Olá, eu sou <span class="destaque">Felicidade Araújo</span></h1>
-    <p>Desenvolveda | Java | HTML | CSS | JS</p>
   </header>
 </body>
 </html>
