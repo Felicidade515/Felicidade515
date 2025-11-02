@@ -11,11 +11,11 @@ Hardworking developer, always striving to improve
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📊 Estatísticas
+## 📊 Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Felicidade515&show_icons=true&theme=dark)
 
-## 📫 Contato
+## 📫 Contact
 
 - Email: felicidadearaujo515@gmail.com
 
